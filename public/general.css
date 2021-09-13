@@ -1,0 +1,21 @@
+.align-center{
+    text-align: center;
+}
+
+.line-height-3em{
+    line-height: 3em;
+}
+
+.dark-bg{
+    background-color: rgb(0, 0, 0);
+}
+
+.img-size{
+    width: 400px;
+    margin:auto;
+}
+
+.carousel-inner img{
+    width: 1000px;
+    margin: auto;
+}
