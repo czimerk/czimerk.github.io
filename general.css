@@ -40,4 +40,11 @@ body{
 html {
     position: relative;
     min-height: 100%;
+    background-color: #0d2239!important;
+    background-image: linear-gradient( 270deg, black, transparent);
+    color: #b5b5b5;
+}
+
+.btn > a {
+    color:white;
 }
