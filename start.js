@@ -4,7 +4,7 @@ var exec = require('child_process').execFile;
 
 var chrome = "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe";
 
-var file = new (static.Server)('./public');
+var file = new (static.Server)('./');
 var portNumber = 8080;
 http.createServer(function (req, res) {
     file.serve(req, res);
